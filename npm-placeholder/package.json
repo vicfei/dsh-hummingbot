@@ -1,0 +1,10 @@
+{
+  "name": "dsh-hummingbot",
+  "version": "0.0.1",
+  "description": "Pure market making, natively on DeepSeek Harness — a deterministic simulator (spread quotes, inventory skew, circuit breaker) on real 1m exchange data with caveats on every payload; live routing guarded off. Implements the core concept of Hummingbot (Apache-2.0). Name reserved; first release in development.",
+  "keywords": ["deepseek-harness", "dsh", "dsh-plugin", "hummingbot", "market-making", "crypto", "quant", "simulation", "trading-guards"],
+  "repository": {"type": "git", "url": "git+https://github.com/vicfei/dsh-hummingbot.git"},
+  "homepage": "https://github.com/vicfei/dsh-hummingbot#readme",
+  "license": "MIT",
+  "author": "vicfei"
+}
